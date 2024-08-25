@@ -34,5 +34,6 @@ A DevOps Engineer with over six years of experience in designing, deploying, and
 
 **Certifications**
 
-Kubernetes Certified Administrator
-AWS solution architect associate
+• Kubernetes Certified Administrator
+
+• AWS solution architect associate
