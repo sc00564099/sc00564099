@@ -5,29 +5,17 @@ A DevOps Engineer with over six years of experience in designing, deploying, and
 **Skills and Competencies**
 
 • Cloud Platforms: AWS, GCP, Azure
-
 • CI/CD & Build Tools: Jenkins, TeamCity, Maven
-
 • Version Control: Git, Bitbucket
-
 • Configuration Management: Ansible
-
 • Scripting: Bash, Python
-
 • Monitoring: Grafana, Prometheus, CloudWatch
-
 • Operating Systems: Linux, Windows, Mac
-
 • Container Technologies: Kubernetes, Docker
-
 • Logging: Elasticsearch, Fluentd, Kibana
-
 • Databases: Oracle, PostgreSQL, Couchbase
-
 • Artifacts: Nexus, JFrog
-
 • Collaboration: Jira, Confluence
-
 • GenAI in DevOps: Kubiya
 
 
@@ -35,5 +23,4 @@ A DevOps Engineer with over six years of experience in designing, deploying, and
 **Certifications**
 
 • Kubernetes Certified Administrator
-
 • AWS solution architect associate
